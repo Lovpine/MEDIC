@@ -55,7 +55,7 @@ This dataset is ideal for research in fields such as conversational analysis, be
 
 ## License and Agreement
 
-To use the MEDIC dataset, users are required to sign an agreement, which encompasses the terms of use and licensing conditions. To download this database, you need to print the [agreement](https://nvie.ustc.edu.cn/doc/release_agreement_nvie.pdf), sign it and send it to us.
+To use the MEDIC dataset, users are required to sign an agreement, which encompasses the terms of use and licensing conditions. To download this database, you need to print the [agreement](https://github.com/Lovpine/MEDIC/blob/main/Release-Aggrement.pdf), sign it and send it to us.
 
 ## Contact Us
 
